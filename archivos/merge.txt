@@ -1,0 +1,5 @@
+Antes, la carpeta tenía asignada un commit inicial, que debía pushearse primero antes de crear el archivo.
+
+David Escobar Ruiz
+21
+- Entender a fondo el paradigma de programación orientada a objetos para poder aplicarlo a los problemas que me interezan en mi área de enfoque. 
